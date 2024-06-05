@@ -10,9 +10,6 @@ const Header = () => {
         <image src={brainwave} width={190} height={40} /> 
      </a>
     </div>
-    <div>
-      <button>submit</button>
-    </div>
     </>
   )
 }
