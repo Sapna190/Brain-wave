@@ -15,7 +15,6 @@ const Header = () => {
             m-auto lg:flex-row">
               1 2 3
             </div>
-            <div><button></button></div>
         </nav>
       </div>
     </div>
