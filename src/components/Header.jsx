@@ -18,7 +18,7 @@ const Header = () => {
                 <a key={item.id} href={item.url}>
                   {item.title}
                 </a>
-                <div><button></button></div>
+                 
               ))}
             </div>
         </nav>
